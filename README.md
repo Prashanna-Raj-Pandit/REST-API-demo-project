@@ -10,14 +10,17 @@ DELETE Delete a cafe by ID
 
 http://127.0.0.1:5000/report-closed/7?api_key=YOUR_SECRET_API_KEY
 Delete a cafe data by using a route /report-closed/CAFE_ID?api_kay=YOUR_API_KEY
+
 <img width="411" alt="image" src="https://github.com/Prashanna-Raj-Pandit/REST-API-demo-project/assets/108394628/8cc9a298-762d-4fa8-afb7-0e5d75b72f2b">
 
 GET Get all cafes
+
 http://127.0.0.1:5000/all
 Get all cafe by requesting a route /all
 
 
 GET Get a random cafe
+
 http://127.0.0.1:5000/random
 Get a random cafe near you by requesting a route /random
 
