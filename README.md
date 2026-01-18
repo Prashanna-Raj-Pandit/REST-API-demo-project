@@ -30,6 +30,7 @@ http://127.0.0.1:5000/random
 PATCH Update the price of cafe
 
 http://127.0.0.1:5000/update-price/70?new_price=350
+
 <img width="411" alt="image" src="https://github.com/Prashanna-Raj-Pandit/REST-API-demo-project/assets/108394628/1787519a-9f21-4f24-809d-48d5849adbed">
 
 ## Step-by-step execution flow
